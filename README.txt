@@ -1,8 +1,8 @@
-2021 Aug 11
-Ianto Cannon
+Ianto Cannon, 25 July 2023
 
-Code from Giovanni Soligo which counts the number of droplets in a 3D binary file such as: dataVOF000001700000
-Edited by Ianto Cannon to calculate droplet morphology
-Each process is assigned a separate timestep, so ntasks in launchDropCount.sh should be less than or equal to the number of timesteps.
+Code from Giovanni Soligo which counts the number of droplets in a 3D binary file such as: dataVOF000001700000.
+Edited by Ianto Cannon to calculate droplet morphology.
 
-Then run with command 'sbatch launchDropCount.sh'
+Run with command 'sbatch launchDropCount.sh'.
+
+Okinawa Instiute of Science and Technology, Complex Fluids and Flows unit - Rosti unit
